@@ -1,0 +1,39 @@
+rmj95@55b5087b6f57:~$ nano readme.md
+rmj95@55b5087b6f57:~$ ls
+dhbox-work-today.md  first-repo  pandoc-1.19.2.1-1-amd64.deb  todayscommands.docx  todayscommands.html
+rmj95@55b5087b6f57:~$ cd first-repo
+rmj95@55b5087b6f57:~/first-repo$ nano readme.md
+rmj95@55b5087b6f57:~/first-repo$ nano module1.md
+rmj95@55b5087b6f57:~/first-repo$ ls
+module1.md  readme.md
+rmj95@55b5087b6f57:~/first-repo$ git add -A
+rmj95@55b5087b6f57:~/first-repo$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+        new file:   module1.md
+rmj95@55b5087b6f57:~/first-repo$ git commit -m "New file added"
+[master 47cbdca] New file added
+ 1 file changed, 2 insertions(+)
+ create mode 100644 module1.md
+ rmj95@55b5087b6f57:~/first-repo$ git log
+commit 47cbdca8b267b3d56f3d15367c2bfa2e04afcda9
+Author: Rachel Johnson <rachel.95.johnson@gmail.com>
+Date:   Sun Jul 16 19:34:30 2017 +0000
+    New file added
+commit bfb366fa836531c6215184646759df7945987ad5
+Author: Rachel Johnson <rachel.95.johnson@gmail.com>
+Date:   Sun Jul 16 18:30:53 2017 +0000
+    Created and updated readme.md to reflect an account of the changes made today in learning to use git.
+commit 6e280c988ffd5b00fff3dd92527d0be3a03c4450
+Author: Rachel Johnson <rachel.95.johnson@gmail.com>
+Date:   Sun Jul 16 18:26:10 2017 +0000
+    My First Commit
+rmj95@55b5087b6f57:~/first-repo$ q
+-bash: q: command not found
+rmj95@55b5087b6f57:~/first-repo$ git checkout -b experiment <47cdbca8b267b3d56f3d15367c2bfa2e04afcda9>
+-bash: syntax error near unexpected token `newline'
+rmj95@55b5087b6f57:~/first-repo$ git checkout -b experiment 47cdbca8b267b3d56f3d15367c2bfa2e04afcda9
+fatal: reference is not a tree: 47cdbca8b267b3d56f3d15367c2bfa2e04afcda9
+rmj95@55b5087b6f57:~/first-repo$ git checkout -b experiment bfb366fa836531c6215184646759df7945987ad5
+Switched to a new branch 'experiment'

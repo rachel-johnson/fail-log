@@ -20,7 +20,7 @@ Issues:
 + In completing exercise 1 and uploading it to Github, the second image would not display. It shows a image box with the words "alt text", which when you select it says "*content length exceeded*". I tried adding smaller sized images, but they wouldn't show up either. 
 + I had an issue with the DHBox in exercise 2, when installing pandoc. I typed in the command prompt and it stated that there was an error because the file didn't exist. I retyped it at least 2 more times with the same result. Finally I realised that I'd been missing one letter from the command prompt found in the workbook, and was able to install pandoc perfectly fine. 
 + I made to through exercise 4 until the end of 4.6. I had some trouble is making a file a created in the command line of DHBox on a cloned repository push to Github. For some reason it said it transfered over but didn't acutally show up on Github. 
-+ I was able to create a new branch and a file for that branch, but was unable to push and pull it. 
++ I was able to create a new branch and a file for that branch, but was only able to push the branch not the file. I then created a new file in the branch on Github instead of trying to push it from DHBox.
 
 Reflections:
 + I found the exercises to be very interesting and fun to follow. 

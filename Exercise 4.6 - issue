@@ -1,0 +1,41 @@
+rmj95@55b5087b6f57:~/Module_1_exercise_4$ cd
+rmj95@55b5087b6f57:~$ cd Module_1_exercise_4
+rmj95@55b5087b6f57:~/Module_1_exercise_4$ git status
+On branch practice
+Your branch is up-to-date with 'origin/practice'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+        new file:   hamilton2
+rmj95@55b5087b6f57:~/Module_1_exercise_4$ git log
+commit dff2e7b1ae11d69e099785f578f86d6d03286b2d
+Author: Sarah Cole <sarahmichellecc@gmail.com>
+Date:   Sun Jul 9 22:45:52 2017 +0000
+    Added hamilton.md.
+commit f4411fe6859a516d33ddc701f398c1d74eb875f0
+Author: Sarah Cole <sarahmichellecc@gmail.com>
+Date:   Sun Jul 9 22:43:11 2017 +0000
+    Fixed spacing between headers, updated list, and added star ratings out of five in recently_read.md.
+commit d46e8451093e0b9cae6beefb744e3dd0b1a77aae
+Author: Sarah Cole <sarahmichellecc@gmail.com>
+Date:   Sun Jul 9 22:39:21 2017 +0000
+    Added file to_read.md with a section containing books to read in August 2017, both fiction and non-fiction.
+commit 2f89bcec648145681dae9764bb22fd86594c39c4
+Author: Sarah Cole <sarahmichellecc@gmail.com>
+Date:   Sun Jul 9 22:25:52 2017 +0000
+Created file recently_read.md. Added books for July 2017.
+commit b5ef5a4d718554ffa758263db5a72368e5ee6d81
+Author: Sarah Cole <sarahmichellecc@gmail.com>
+Date:   Sun Jul 9 22:18:05 2017 +0000
+    This is my second commit. I have added a line of text to readme.md.
+commit 117e0f24e6f7a5f46184eb42fdb59bc30b274f2d
+Author: Sarah Cole <sarahmichellecc@gmail.com>
+Date:   Sun Jul 9 22:17:02 2017 +0000
+    My first commit
+rmj95@55b5087b6f57:~/Module_1_exercise_4$ nano hamilton2
+rmj95@55b5087b6f57:~/Module_1_exercise_4$ git push -u origin practice
+Username for 'https://github.com': rachel-johnson
+Password for 'https://rachel-johnson@github.com': 
+Branch practice set up to track remote branch practice from origin.
+Everything up-to-date
+rmj95@55b5087b6f57:~/Module_1_exercise_4$ ls
+hamilton2  hamilton.md  readme.md  recently_read.md  to_read.md

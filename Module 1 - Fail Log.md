@@ -26,5 +26,3 @@ Reflections:
 + I found the exercises to be very interesting and fun to follow. 
 + They were engaging and allowed me to learn through experience rather that theory, which was refreshing. 
 + I feel that I was able to gain a basic understanding of these programs which will provide a good base for the rest of the course. 
-
-![alt text](https://static.pexels.com/photos/207277/pexels-photo-207277.jpeg)

@@ -13,8 +13,8 @@ What I did:
 + I completed exercises 1-3 as outlined in the [workbook](http://workbook.craftingdigitalhistory.ca/module-1/Exercises/).
 + I learned about markdown syntax with dillinger.io
 + I learned how to use the command line in DHBox, in order to install pandoc and create files.
-+ I completed half of exercise 4 to learn how to use git to create a new branch in the command line, create a repository, push, and clone between git and Github. 
-+ recorded some of my work in "command line- excerpt from today"
++ I completed exercise 4 to learn how to use git to create a new branch in the command line, create a repository, push, pull, and clone between git and Github. 
++ I recorded some of my work in "command line- excerpt from today".
 
 Issues:
 + In completing exercise 1 and uploading it to Github, the second image would not display. It shows a image box with the words "alt text", which when you select it says "*content length exceeded*". I tried adding smaller sized images, but they wouldn't show up either. 

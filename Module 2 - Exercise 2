@@ -1,0 +1,13 @@
+# Module 2, Exercise 2: Wget
+
+rmj95@55b5087b6f57:~$ mkdir wget-activehistory
+rmj95@55b5087b6f57:~$ cd wget-activehistory
+rmj95@55b5087b6f57:~/wget-activehistory$ wget http://activehistory.ca/papers/
+--2017-07-21 02:14:07--  http://activehistory.ca/papers/
+Resolving activehistory.ca (activehistory.ca)... 138.197.156.41
+Connecting to activehistory.ca (activehistory.ca)|138.197.156.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html’
+    [ <=>                                                                         ] 53,041      --.-K/s   in 0.09s   
+2017-07-21 02:14:07 (599 KB/s) - ‘index.html’ saved [53041]

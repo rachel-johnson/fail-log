@@ -1,3 +1,11 @@
+# Module 2 - Exercise 4: APIs
+
+I installed jq on the command line.
+Made a new directory with an empty file 'canadian.sh'.
+Inputted Milligan's script, changed the permissions, and ran the program. 
+I downloaded the output.txt file to my computer. 
+
+Commands:
 Date:   Fri Jul 21 01:40:34 2017 +0000
     Add existing file
 rmj95@55b5087b6f57:~/m2e4$ history

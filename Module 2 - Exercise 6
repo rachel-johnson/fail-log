@@ -1,0 +1,10 @@
+# Module 2 - Exercise 6
+
+Installed Tesseracrt OCR to dhbox
+Installed imagemagick to dhbox
+Installed pdftk to dhbox
+Tried to grab a pdf using "pdftk 83471_1957-07-04.pdf burst", and received an error that it couldn't find the file
+I figured out I hadn't grabbed the file using wget, I did that and grabbed the pdf - it took a while to save
+Burst the pdf into individual pages
+Converted the first file 
+Extracted and download the text as "output.txt"

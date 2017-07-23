@@ -11,6 +11,13 @@ It is structured in such a way that it shows a considerable amount of effort wen
 I located and opened *Negro Slavery* by Zachary Macaulay by browsing the collection.
 I set up my workspace according to instructions, and selected page 15 from the pamphlet to transcribe.
 I transcribed the entire page, and realized when I went to the next step that I was supposed to download a text editor, not use the program on my laptop which the file opened on.
-I then downloaded Notepad ++ and transcribed it again.
+I then downloaded Notepad++ and transcribed it again.
 I encoded the transcription; there weren't any people mentioned, there were a couple places, and there weren't any claims or arguments as the section was telling a story.
 I had a lot of issues trying to figure out how to get the xml into a xsl file.
+
+I took a break from this exercise and completed the rest of them. 
+
+I used the example as a guideline and redid the exercise. 
+I still got the error that it couldn't create the xsl file.
+I tried to validate it to figure out what was wrong, and got the message that a default validation schema could not be found in XML root element.
+I decided to leave the exercise until I could get some help with getting the xsl file.

@@ -1,4 +1,7 @@
 Simple Mapping and Georectifying
 
-Part 1:
+I was easily able to georectify a map of Ottawa and get the tiles base URL:
 http://warp.worldmap.harvard.edu/maps/tile/6460/z/x/y.png
+
+I ran into an issue when trying to use it as a base layer for visualization. 
+The map wouldn't load into Palladio, I made sure to include the {} brackets and backslashes, but it wouldn't work

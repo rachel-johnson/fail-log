@@ -5,3 +5,5 @@ http://warp.worldmap.harvard.edu/maps/tile/6460/z/x/y.png
 
 I ran into an issue when trying to use it as a base layer for visualization. 
 The map wouldn't load into Palladio, I made sure to include the {} brackets and backslashes, but it wouldn't work
+
+I then tried the example of using CartoDB

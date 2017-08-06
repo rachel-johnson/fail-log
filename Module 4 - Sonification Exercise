@@ -1,0 +1,13 @@
+Musicalgorithms:
+- I used the Roman Data provided to learn how to sonify data
+- I had to properly format it, load it, edit it, and then play it
+
+Phython:
+- I don't have Python and don't know how to use it so I skipped this part.
+
+Sonic Pi:
+- I downloaded it for Windows
+- I looked at the tutorial
+- I tried the exercise and had I lot of issues loading the file, as it said it didn't exist
+- I received the error message "No such file or directory @ rb_sysopen"
+- I wasn't able to complete the exercise, as I couldn't figure out how to fix the error
